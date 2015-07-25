@@ -1,0 +1,21 @@
+D:\Projects C#\SP_IDE\SP_IDE\bin\Debug\SP_IDE.exe.config
+D:\Projects C#\SP_IDE\SP_IDE\bin\Debug\SP_IDE.exe
+D:\Projects C#\SP_IDE\SP_IDE\bin\Debug\SP_IDE.pdb
+D:\Projects C#\SP_IDE\SP_IDE\bin\Debug\FastColoredTextBox.dll
+D:\Projects C#\SP_IDE\SP_IDE\bin\Debug\TabStrip.dll
+D:\Projects C#\SP_IDE\SP_IDE\obj\Debug\SP_IDE.csprojResolveAssemblyReference.cache
+D:\Projects C#\SP_IDE\SP_IDE\obj\Debug\SP_IDE.csproj.GenerateResource.Cache
+D:\Projects C#\SP_IDE\SP_IDE\obj\Debug\SP_IDE.exe
+D:\Projects C#\SP_IDE\SP_IDE\obj\Debug\SP_IDE.pdb
+D:\Projects C#\SP_IDE\SP_IDE\obj\Debug\Y11.Main.resources
+D:\Projects C#\SP_IDE\SP_IDE\obj\Debug\Y11.Properties.Resources.resources
+D:\Projects C#\SP_IDE\SP_IDE\bin\Debug\Antlr3.Runtime.dll
+D:\Projects C#\SP_IDE\SP_IDE\bin\Debug\AntlrBuildTask.dll
+D:\Projects C#\SP_IDE\SP_IDE\bin\Debug\ICSharpCode.AvalonEdit.dll
+D:\Projects C#\SP_IDE\SP_IDE\obj\Debug\Y11.NewProjectForm.resources
+C:\Users\Paul\Google Диск\Projects C#\SP_IDE\SP_IDE\bin\Debug\SP_IDE.exe.config
+C:\Users\Paul\Google Диск\Projects C#\SP_IDE\SP_IDE\obj\Debug\SP_IDE.exe
+C:\Users\Paul\Google Диск\Projects C#\SP_IDE\SP_IDE\obj\Debug\SP_IDE.pdb
+D:\Google Диск\Projects C#\SP_IDE\SP_IDE\bin\Debug\SP_IDE.exe.config
+D:\Google Диск\Projects C#\SP_IDE\SP_IDE\obj\Debug\SP_IDE.exe
+D:\Google Диск\Projects C#\SP_IDE\SP_IDE\obj\Debug\SP_IDE.pdb
